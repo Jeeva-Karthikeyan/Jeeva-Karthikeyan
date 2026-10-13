@@ -54,45 +54,66 @@ I enjoy debugging, improving existing software, and turning messy data into some
 
 ## Skills
 
-```mermaid
-mindmap
-  root((Jeeva K))
-    Machine Learning
-      Scikit-learn
-      Pandas
-      NumPy
-      Data Preprocessing
-      EDA
-      Model Evaluation
-    Backend
-      FastAPI
-      REST APIs
-      Pydantic
-    Databases
-      MySQL
-      SQLite
-      SQL
-    Systems
-      Linux
-      Shell Scripting
-      Web Scraping
-    Tools
-      Mercurial
-      YouTrack
-      GitHub
-```
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<div align="center">
+**🤖 Machine Learning**
 
-| Area | Technologies (click to open the official site) |
-|:--|:--|
-| **Language** | <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=0f172a" alt="Python"/></a> <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white&labelColor=0f172a" alt="Shell scripting"/></a> |
-| **Machine Learning** | <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white&labelColor=0f172a" alt="Scikit-learn"/></a> <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&labelColor=0f172a" alt="Pandas"/></a> <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&labelColor=0f172a" alt="NumPy"/></a> |
-| **Backend** | <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&labelColor=0f172a" alt="FastAPI"/></a> <a href="https://docs.pydantic.dev/"><img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white&labelColor=0f172a" alt="Pydantic"/></a> |
-| **Databases** | <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=0f172a" alt="MySQL"/></a> <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&labelColor=0f172a" alt="SQLite"/></a> |
-| **Systems and Tools** | <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&labelColor=0f172a" alt="Linux"/></a> <a href="https://www.mercurial-scm.org/"><img src="https://img.shields.io/badge/Mercurial-999999?style=flat&logo=mercurial&logoColor=white&labelColor=0f172a" alt="Mercurial"/></a> <a href="https://www.jetbrains.com/youtrack/"><img src="https://img.shields.io/badge/YouTrack-000000?style=flat&logo=youtrack&logoColor=white&labelColor=0f172a" alt="YouTrack"/></a> <a href="https://github.com/jeevakarthikeyan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub"/></a> |
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white&labelColor=0f172a" alt="Scikit-learn"/></a> <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&labelColor=0f172a" alt="Pandas"/></a> <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&labelColor=0f172a" alt="NumPy"/></a>
 
-</div>
+<sub>Data Preprocessing · Exploratory Data Analysis · Model Evaluation</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**⚙️ Backend Development**
+
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&labelColor=0f172a" alt="FastAPI"/></a> <a href="https://docs.pydantic.dev/"><img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white&labelColor=0f172a" alt="Pydantic"/></a>
+
+<sub>REST API Development · Data Validation · Authentication Handling</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**🗄️ Databases**
+
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=0f172a" alt="MySQL"/></a> <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&labelColor=0f172a" alt="SQLite"/></a>
+
+<sub>SQL queries · Data integration · Database modifications</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**💻 Programming**
+
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=0f172a" alt="Python"/></a> <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white&labelColor=0f172a" alt="Shell Scripting"/></a>
+
+<sub>Web Scraping · Automation with shell scripts</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**🛠️ Systems and Tools**
+
+<a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&labelColor=0f172a" alt="Linux"/></a> <a href="https://www.mercurial-scm.org/"><img src="https://img.shields.io/badge/Mercurial-999999?style=flat&logo=mercurial&logoColor=white&labelColor=0f172a" alt="Mercurial"/></a> <a href="https://www.jetbrains.com/youtrack/"><img src="https://img.shields.io/badge/YouTrack-000000?style=flat&logo=youtrack&logoColor=white&labelColor=0f172a" alt="YouTrack"/></a> <a href="https://github.com/jeevakarthikeyan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub"/></a>
+
+<sub>Linux environments · Version control · Issue tracking</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**📋 Engineering Practice**
+
+`Unit Testing` `Debugging` `Code Reviews`
+
+<sub>Low-Level Design documents · Unit Test Specifications · Defect resolution</sub>
+
+</td>
+</tr>
+</table>
 
 <div align="right"><a href="#top">⬆ Back to top</a></div>
 
